@@ -1,0 +1,35 @@
+crearFecha 1/2/2023
+imprimirFecha
+aumentarDias 28
+liberarFecha
+
+# año bisiesto
+crearFecha 1/2/2024
+imprimirFecha
+aumentarDias 28
+liberarFecha
+
+# mas de un mes
+crearFecha 18/12/2023
+imprimirFecha
+aumentarDias 50
+liberarFecha
+
+# mas de un mes y bisiesto
+crearFecha 18/12/2023
+imprimirFecha
+aumentarDias 73
+liberarFecha
+
+# mas de un año
+crearFecha 18/12/2022
+imprimirFecha
+aumentarDias 366
+liberarFecha
+
+# mas de un año y bisiesto
+crearFecha 18/12/2023
+imprimirFecha
+aumentarDias 366
+liberarFecha
+Fin

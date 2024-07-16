@@ -1,0 +1,28 @@
+crearConjuntoPiezas 3
+esVacioConjuntoPiezas
+cardinalConjuntoPiezas
+cantMaxConjuntoPiezas
+insertarConjuntoPiezas 2
+esVacioConjuntoPiezas
+perteneceConjuntoPiezas 2
+insertarConjuntoPiezas 0
+insertarConjuntoPiezas 1
+cardinalConjuntoPiezas
+cantMaxConjuntoPiezas
+perteneceConjuntoPiezas 2
+perteneceConjuntoPiezas 3
+perteneceConjuntoPiezas 4
+borrarDeConjuntoPiezas 0
+borrarDeConjuntoPiezas 1
+borrarDeConjuntoPiezas 2
+cardinalConjuntoPiezas
+cantMaxConjuntoPiezas
+insertarConjuntoPiezas 0
+borrarDeConjuntoPiezas 2
+insertarConjuntoPiezas 1
+esVacioConjuntoPiezas
+cardinalConjuntoPiezas
+cantMaxConjuntoPiezas
+imprimirConjuntoPiezas
+liberarConjuntoPiezas
+Fin

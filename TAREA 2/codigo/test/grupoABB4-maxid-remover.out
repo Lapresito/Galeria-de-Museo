@@ -1,0 +1,77 @@
+Bienvenido al programa principal de ArteProg. Por favor ingrese su comando:
+1> El grupoABB ha sido creado de forma exitosa.
+2> Visitante creadox de forma exitosa.
+3> Se ha agregado el visitante al grupo de forma exitosa.
+4> El mayor id en el grupo es 7.
+5> Visitante creadox de forma exitosa.
+6> Se ha agregado el visitante al grupo de forma exitosa.
+7> El mayor id en el grupo es 21.
+8> Visitante creadox de forma exitosa.
+9> Se ha agregado el visitante al grupo de forma exitosa.
+10> El mayor id en el grupo es 21.
+11> Visitante creadox de forma exitosa.
+12> Se ha agregado el visitante al grupo de forma exitosa.
+13> El mayor id en el grupo es 40.
+14> El visitante con id 21 se removio del grupo.
+15> El mayor id en el grupo es 40.
+16> El visitante con id 40 se removio del grupo.
+17> El mayor id en el grupo es 15.
+18> Visitante creadox de forma exitosa.
+19> Se ha agregado el visitante al grupo de forma exitosa.
+20> Visitante creadox de forma exitosa.
+21> Se ha agregado el visitante al grupo de forma exitosa.
+22> Visitante creadox de forma exitosa.
+23> Se ha agregado el visitante al grupo de forma exitosa.
+24> El mayor id en el grupo es 40.
+25> Visitante creadox de forma exitosa.
+26> Se ha agregado el visitante al grupo de forma exitosa.
+27> Visitante Zenobia Gomez
+Id: 7
+Edad: 16
+Visitante Valquiria Gomez
+Id: 15
+Edad: 35
+Visitante Casimira Lopez
+Id: 21
+Edad: 42
+Visitante Valquiria Gonzalez
+Id: 25
+Edad: 19
+Visitante Zafiro Martinez
+Id: 40
+Edad: 20
+Visitante Valquiria Garcia
+Id: 45
+Edad: 33
+28> El mayor id en el grupo es 45.
+29> El visitante con id 40 se removio del grupo.
+30> Visitante Zenobia Gomez
+Id: 7
+Edad: 16
+Visitante Valquiria Gomez
+Id: 15
+Edad: 35
+Visitante Casimira Lopez
+Id: 21
+Edad: 42
+Visitante Valquiria Gonzalez
+Id: 25
+Edad: 19
+Visitante Valquiria Garcia
+Id: 45
+Edad: 33
+31> El visitante con id 25 se removio del grupo.
+32> Visitante Zenobia Gomez
+Id: 7
+Edad: 16
+Visitante Valquiria Gomez
+Id: 15
+Edad: 35
+Visitante Casimira Lopez
+Id: 21
+Edad: 42
+Visitante Valquiria Garcia
+Id: 45
+Edad: 33
+33> Grupo liberado con exito.
+34> Fin.

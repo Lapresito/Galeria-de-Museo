@@ -1,0 +1,32 @@
+crearColeccionPiezas
+crearFecha 2/2/2002
+crearPieza 10 LaxaEspadaTriste Sapphire Frost
+agregarColeccionPiezas
+crearFecha 4/3/2005
+crearPieza 30 SacraLataFurtiva River Rain
+agregarColeccionPiezas
+crearFecha 2/2/2006
+crearPieza 50 GozadaEspadaDesquiciada River Rain
+agregarColeccionPiezas
+crearFecha 6/5/2007
+crearPieza 70 RaraMangueraDesquiciada River Rain
+agregarColeccionPiezas
+crearFecha 6/5/2008
+crearPieza 40 MalditaLataFunebre River Rain
+agregarColeccionPiezas
+crearFecha 6/5/2009
+crearPieza 60 AltaBarcaAfilada River Rain
+agregarColeccionPiezas
+removerDeColeccionPiezas 50
+removerDeColeccionPiezas 10
+esVaciaColeccionPiezas
+crearFecha 2/2/2006
+crearPieza 50 GozadaEspadaDesquiciada River Rain
+agregarColeccionPiezas
+obtenerPiezaColeccionPiezas 50
+obtenerPiezaColeccionPiezas 40
+obtenerPiezaColeccionPiezas 60
+esVaciaColeccionPiezas
+imprimirColeccionPiezas
+liberarColeccionPiezas
+Fin

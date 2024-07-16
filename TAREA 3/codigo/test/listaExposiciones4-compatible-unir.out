@@ -1,0 +1,41 @@
+Bienvenido al programa principal de ArteProg. Por favor ingrese su comando:
+1> Lista de exposiciones creada con exito.
+2> Exposicion creada con exito.
+3> Piezas agregadas a la exposicion de forma exitosa.
+4> Se ha agregado la exposicion a la lista de forma exitosa.
+5> Exposicion creada con exito.
+6> Piezas agregadas a la exposicion de forma exitosa.
+7> Se ha agregado la exposicion a la lista de forma exitosa.
+8> Exposicion creada con exito.
+9> Piezas agregadas a la exposicion de forma exitosa.
+10> Se ha agregado la exposicion a la lista de forma exitosa.
+11> Exposicion #1 del 1/1/2002 al 1/7/2002
+Piezas: 0 1 2 3 4 5 6 7 8 
+Exposicion #2 del 1/2/2002 al 1/7/2002
+Piezas: 0 1 2 3 4 5 6 7 8 
+Exposicion #3 del 2/3/2002 al 1/7/2002
+Piezas: 0 1 2 3 4 5 6 7 8 
+12> Exposicion creada con exito.
+13> Piezas agregadas a la exposicion de forma exitosa.
+14> La exposicion es compatible con el resto de las exposiciones de la lista.
+15> Exposicion liberada con exito.
+16> Exposicion creada con exito.
+17> Piezas agregadas a la exposicion de forma exitosa.
+18> La exposicion NO es compatible con el resto de las exposiciones de la lista.
+19> Exposicion liberada con exito.
+20> Exposicion creada con exito.
+21> Piezas agregadas a la exposicion de forma exitosa.
+22> La exposicion es compatible con el resto de las exposiciones de la lista.
+23> Exposicion liberada con exito.
+24> Exposicion #1 del 1/1/2002 al 1/7/2002
+Piezas: 0 1 2 3 4 5 6 7 8 
+Exposicion #2 del 1/2/2002 al 1/7/2002
+Piezas: 0 1 2 3 4 5 6 7 8 
+Exposicion #3 del 2/3/2002 al 1/7/2002
+Piezas: 0 1 2 3 4 5 6 7 8 
+Exposicion #4 del 4/3/2002 al 1/7/2002
+Piezas: 3 4 
+Exposicion #5 del 5/3/2002 al 1/7/2002
+Piezas: 2 3 
+25> Lista exposiciones liberada con exito.
+26> Fin.

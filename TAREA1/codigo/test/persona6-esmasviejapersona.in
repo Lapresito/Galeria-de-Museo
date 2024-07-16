@@ -1,0 +1,5 @@
+crearFecha 25/3/1990
+crearPersona 87654321 Persona1 Apellido1
+esMasJovenPersona 25/3/2000 23456789 Persona2 Apellido2
+liberarPersona
+Fin

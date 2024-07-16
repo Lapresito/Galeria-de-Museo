@@ -1,0 +1,10 @@
+crearConjuntoPiezas 2
+imprimirConjuntoPiezas
+liberarConjuntoPiezas
+crearConjuntoPiezas 2
+insertarConjuntoPiezas 1
+insertarConjuntoPiezas 2
+insertarConjuntoPiezas 1
+imprimirConjuntoPiezas
+liberarConjuntoPiezas
+Fin

@@ -1,0 +1,30 @@
+Bienvenido al programa principal de ArteProg. Por favor ingrese su comando:
+1> El conjunto piezas fue creado en forma correcta.
+2> El conjunto de piezas es vacio.
+3> El cardinal del conjunto es: 0.
+4> La cantidad maxima del conjunto es: 3.
+5> Se ejecuto 'insertarTConjuntoPiezas' con pieza de id 2 exitosamente.
+6> La conjunto de piezas NO es vacio.
+7> La pieza de id 2 pertenece al conjunto.
+8> Se ejecuto 'insertarTConjuntoPiezas' con pieza de id 0 exitosamente.
+9> Se ejecuto 'insertarTConjuntoPiezas' con pieza de id 1 exitosamente.
+10> El cardinal del conjunto es: 3.
+11> La cantidad maxima del conjunto es: 3.
+12> La pieza de id 2 pertenece al conjunto.
+13> La pieza de id 3 NO pertenece al conjunto.
+14> La pieza de id 4 NO pertenece al conjunto.
+15> Se ejecuto 'borrarDeTConjuntoPiezas' con pieza de id 0 exitosamente.
+16> Se ejecuto 'borrarDeTConjuntoPiezas' con pieza de id 1 exitosamente.
+17> Se ejecuto 'borrarDeTConjuntoPiezas' con pieza de id 2 exitosamente.
+18> El cardinal del conjunto es: 0.
+19> La cantidad maxima del conjunto es: 3.
+20> Se ejecuto 'insertarTConjuntoPiezas' con pieza de id 0 exitosamente.
+21> Se ejecuto 'borrarDeTConjuntoPiezas' con pieza de id 2 exitosamente.
+22> Se ejecuto 'insertarTConjuntoPiezas' con pieza de id 1 exitosamente.
+23> La conjunto de piezas NO es vacio.
+24> El cardinal del conjunto es: 2.
+25> La cantidad maxima del conjunto es: 3.
+26> Conjunto de piezas:
+0 1 
+27> Conjunto de piezas liberado exitosamente.
+28> Fin.

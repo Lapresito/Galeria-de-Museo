@@ -1,0 +1,14 @@
+crearConjuntoPiezas 2
+esVacioConjuntoPiezas
+cardinalConjuntoPiezas
+cantMaxConjuntoPiezas
+insertarConjuntoPiezas 2
+cardinalConjuntoPiezas
+perteneceConjuntoPiezas 4
+cardinalConjuntoPiezas
+perteneceConjuntoPiezas 10
+esVacioConjuntoPiezas
+cardinalConjuntoPiezas
+cantMaxConjuntoPiezas
+liberarConjuntoPiezas
+Fin

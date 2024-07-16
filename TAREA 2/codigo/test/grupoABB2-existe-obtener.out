@@ -1,0 +1,33 @@
+Bienvenido al programa principal de ArteProg. Por favor ingrese su comando:
+1> El grupoABB ha sido creado de forma exitosa.
+2> Visitante creadox de forma exitosa.
+3> Se ha agregado el visitante al grupo de forma exitosa.
+4> Visitante Artemio Perez
+Id: 10
+Edad: 21
+5> Visitante creadox de forma exitosa.
+6> Se ha agregado el visitante al grupo de forma exitosa.
+7> Visitante creadox de forma exitosa.
+8> Se ha agregado el visitante al grupo de forma exitosa.
+9> Visitante creadox de forma exitosa.
+10> Se ha agregado el visitante al grupo de forma exitosa.
+11> El visitante con id 10 pertenece al grupo.
+12> El visitante con id 1 NO pertenece al grupo.
+13> El visitante con id 2 pertenece al grupo.
+14> El visitante con id 4 NO pertenece al grupo.
+15> El visitante con id 5 pertenece al grupo.
+16> El visitante con id 7 NO pertenece al grupo.
+17> Visitante Casimira Fernandez
+Id: 5
+Edad: 52
+18> Visitante Ubaldo Fernandez
+Id: 3
+Edad: 19
+19> Visitante Artemio Perez
+Id: 10
+Edad: 21
+20> Visitante Esmeralda Lopez
+Id: 2
+Edad: 21
+21> Grupo liberado con exito.
+22> Fin.

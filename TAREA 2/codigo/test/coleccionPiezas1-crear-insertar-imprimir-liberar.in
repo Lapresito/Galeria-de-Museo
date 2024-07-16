@@ -1,0 +1,28 @@
+crearColeccionPiezas
+imprimirColeccionPiezas
+liberarColeccionPiezas
+crearColeccionPiezas
+crearFecha 1/1/2001
+crearPieza 7 LaxaAristaTriste Carlos Nelson
+agregarColeccionPiezas
+imprimirColeccionPiezas
+liberarColeccionPiezas
+crearColeccionPiezas
+crearFecha 1/1/2001
+crearPieza 7 SacraBarcaTriste Carlos Nelson
+agregarColeccionPiezas
+crearFecha 1/1/2001
+crearPieza 10 RaraEspadaDesquiciada Luciana Diaz
+agregarColeccionPiezas
+crearFecha 1/1/2001
+crearPieza 6 MalditaMangostaFunebre Luciana Diaz
+agregarColeccionPiezas
+crearFecha 1/1/2001
+crearPieza 2 AltaAristaTriste Luciana Diaz
+agregarColeccionPiezas
+crearFecha 1/1/2001
+crearPieza 16 RaraRecursionFurtiva Luciana Diaz
+agregarColeccionPiezas
+imprimirColeccionPiezas
+liberarColeccionPiezas
+Fin

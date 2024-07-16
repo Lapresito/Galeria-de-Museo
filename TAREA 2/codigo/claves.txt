@@ -1,0 +1,5 @@
+907c90944df0e2d9616c313a45568d9239c058f9  src/visitante.cpp
+0959e569a15c15314fe33015be9f7aab43c16f5c  src/pieza.cpp
+fa1e1be173994c84d95ad62ac0f5f9519e887def  src/coleccionPiezas.cpp
+26f0059041bede1b2e0e693532f551460b7ca4b0  src/grupoABB.cpp
+a612c54c90278ae69b081b410ef38869dc55be19  src/coleccionTGrupos.cpp

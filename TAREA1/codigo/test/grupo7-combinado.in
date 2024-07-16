@@ -1,0 +1,110 @@
+crearGrupo
+liberarGrupo
+crearGrupo
+crearFecha 22/3/2024
+crearPersona 1234567 John Doe
+agregarAGrupo
+imprimirGrupo
+liberarGrupo
+crearGrupo
+crearFecha 1/1/2001
+crearPersona 1234567 Persona1 Apellido1
+agregarAGrupo
+crearFecha 1/1/2002
+crearPersona 2345671 Persona2 Apellido2
+agregarAGrupo
+crearFecha 1/1/2003
+crearPersona 3456712 Persona3 Apellido3
+agregarAGrupo
+crearFecha 1/1/2004
+crearPersona 4567123 Persona4 Apellido4
+agregarAGrupo
+crearFecha 1/1/2005
+crearPersona 5671234 Persona5 Apellido5
+agregarAGrupo
+crearFecha 1/1/2006
+crearPersona 6712345 Persona6 Apellido6
+agregarAGrupo
+imprimirGrupo
+liberarGrupo
+crearGrupo
+crearFecha 1/1/2001
+crearPersona 1234567 Persona1 Apellido1
+agregarAGrupo
+crearFecha 1/1/2002
+crearPersona 2345671 Persona2 Apellido2
+agregarAGrupo
+crearFecha 1/1/2003
+crearPersona 3456712 Persona3 Apellido3
+agregarAGrupo
+crearFecha 1/1/2004
+crearPersona 4567123 Persona4 Apellido4
+agregarAGrupo
+crearFecha 1/1/2005
+crearPersona 5671234 Persona5 Apellido5
+agregarAGrupo
+crearFecha 1/1/2006
+crearPersona 6712345 Persona6 Apellido6
+agregarAGrupo
+estaEnGrupo 1234567
+estaEnGrupo 2345671
+estaEnGrupo 3456712
+estaEnGrupo 4567123
+estaEnGrupo 5671234
+estaEnGrupo 6712345
+estaEnGrupo 9999999
+liberarGrupo
+crearGrupo
+crearFecha 1/1/2001
+crearPersona 1111111 Persona1 Apellido1
+agregarAGrupo
+crearFecha 1/1/2002
+crearPersona 2222222 Persona2 Apellido2
+agregarAGrupo
+crearFecha 1/1/2003
+crearPersona 3333333 Persona3 Apellido3
+agregarAGrupo
+crearFecha 1/1/2004
+crearPersona 4444444 Persona4 Apellido4
+agregarAGrupo
+crearFecha 1/1/2005
+crearPersona 5555555 Persona5 Apellido5
+agregarAGrupo
+crearFecha 1/1/2006
+crearPersona 6666666 Persona6 Apellido6
+agregarAGrupo
+removerDeGrupo 2222222
+removerDeGrupo 4444444
+removerDeGrupo 6666666
+removerDeGrupo 1111111
+imprimirGrupo
+liberarGrupo
+crearGrupo
+crearFecha 1/1/2001
+crearPersona 1111111 Persona1 Apellido1
+agregarAGrupo
+crearFecha 1/1/2001
+crearPersona 2222222 Persona2 Apellido2
+agregarAGrupo
+crearFecha 1/1/2002
+crearPersona 3333333 Persona3 Apellido3
+agregarAGrupo
+crearFecha 1/1/2002
+crearPersona 4444444 Persona4 Apellido4
+agregarAGrupo
+crearFecha 1/1/2003
+crearPersona 5555555 Persona5 Apellido5
+agregarAGrupo
+crearFecha 1/1/2003
+crearPersona 6666666 Persona6 Apellido6
+agregarAGrupo
+hayPersonasFecha 1/1/2001
+hayPersonasFecha 1/1/2002
+hayPersonasFecha 1/1/2003
+hayPersonasFecha 1/1/2004
+imprimirPersonasFecha 1/1/2001
+imprimirPersonasFecha 1/1/2002
+imprimirPersonasFecha 1/1/2003
+imprimirPersonasFecha 1/1/2004
+liberarGrupo
+Fin

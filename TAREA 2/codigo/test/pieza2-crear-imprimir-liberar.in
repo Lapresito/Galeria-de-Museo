@@ -1,0 +1,11 @@
+crearFecha 1/1/2001
+crearPieza 7 pieza1 Carlos Nelson
+idPieza
+imprimirPieza
+liberarPieza
+crearFecha 2/7/2003
+crearPieza 3 pieza2 Luciana Diaz
+imprimirPieza
+idPieza
+liberarPieza
+Fin

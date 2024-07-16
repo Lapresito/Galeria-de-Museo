@@ -1,0 +1,15 @@
+crearGaleria 01/01/2024
+crearFecha 01/01/2020 
+crearPieza 1 Pieza1 Autor1 Apellido1
+agregarPiezaGaleria
+crearFecha 02/02/2020 
+crearPieza 2 Pieza2 Autor2 Apellido2
+agregarPiezaGaleria
+crearFecha 03/03/2020 
+crearPieza 3 Pieza3 Autor3 Apellido3
+agregarPiezaGaleria
+crearFecha 04/04/2020 
+crearPieza 4 Pieza4 Autor4 Apellido4
+agregarPiezaGaleria
+liberarGaleria
+Fin

@@ -1,0 +1,207 @@
+Bienvenido al programa principal de ArteProg. Por favor ingrese su comando:
+1> La coleccion de grupos ha sido creado de forma exitosa.
+2> El grupoABB ha sido creado de forma exitosa.
+3> Visitante creadox de forma exitosa.
+4> Se ha agregado el visitante al grupo de forma exitosa.
+5> Visitante creadox de forma exitosa.
+6> Se ha agregado el visitante al grupo de forma exitosa.
+7> Se ha agregado el grupo a la coleccion de forma exitosa.
+8> El grupoABB ha sido creado de forma exitosa.
+9> Visitante creadox de forma exitosa.
+10> Se ha agregado el visitante al grupo de forma exitosa.
+11> Visitante creadox de forma exitosa.
+12> Se ha agregado el visitante al grupo de forma exitosa.
+13> Se ha agregado el grupo a la coleccion de forma exitosa.
+14> El grupoABB ha sido creado de forma exitosa.
+15> Visitante creadox de forma exitosa.
+16> Se ha agregado el visitante al grupo de forma exitosa.
+17> Visitante creadox de forma exitosa.
+18> Se ha agregado el visitante al grupo de forma exitosa.
+19> Se ha agregado el grupo a la coleccion de forma exitosa.
+20> El grupoABB ha sido creado de forma exitosa.
+21> Visitante creadox de forma exitosa.
+22> Se ha agregado el visitante al grupo de forma exitosa.
+23> Visitante creadox de forma exitosa.
+24> Se ha agregado el visitante al grupo de forma exitosa.
+25> Se ha agregado el grupo a la coleccion de forma exitosa.
+26> La cantidad de grupos en la coleccion es 4
+27> Primer grupo:
+Visitante Valquiria Fernandez
+Id: 3
+Edad: 22
+Visitante Artemio Ruiz
+Id: 6
+Edad: 30
+28> Grupo en la posicion 3:
+Visitante Valquiria Fernandez
+Id: 3
+Edad: 22
+Visitante Zenobia Rodriguez
+Id: 5
+Edad: 38
+29> Coleccion de grupos:
+Grupo con edad promedio 26.00:
+Visitante Valquiria Fernandez
+Id: 3
+Edad: 22
+Visitante Artemio Ruiz
+Id: 6
+Edad: 30
+Grupo con edad promedio 29.00:
+Visitante Zafiro Perez
+Id: 4
+Edad: 28
+Visitante Artemio Ruiz
+Id: 6
+Edad: 30
+Grupo con edad promedio 30.00:
+Visitante Valquiria Fernandez
+Id: 3
+Edad: 22
+Visitante Zenobia Rodriguez
+Id: 5
+Edad: 38
+Grupo con edad promedio 31.00:
+Visitante Ubaldo Perez
+Id: 2
+Edad: 32
+Visitante Artemio Ruiz
+Id: 6
+Edad: 30
+30> Coleccion de grupos:
+Grupo con edad promedio 31.00:
+Visitante Ubaldo Perez
+Id: 2
+Edad: 32
+Visitante Artemio Ruiz
+Id: 6
+Edad: 30
+Grupo con edad promedio 30.00:
+Visitante Valquiria Fernandez
+Id: 3
+Edad: 22
+Visitante Zenobia Rodriguez
+Id: 5
+Edad: 38
+Grupo con edad promedio 29.00:
+Visitante Zafiro Perez
+Id: 4
+Edad: 28
+Visitante Artemio Ruiz
+Id: 6
+Edad: 30
+Grupo con edad promedio 26.00:
+Visitante Valquiria Fernandez
+Id: 3
+Edad: 22
+Visitante Artemio Ruiz
+Id: 6
+Edad: 30
+31> Ultimo grupo (removido):
+Visitante Ubaldo Perez
+Id: 2
+Edad: 32
+Visitante Artemio Ruiz
+Id: 6
+Edad: 30
+32> El visitante que aparece en la mayor cantidad de grupos es:
+Visitante Valquiria Fernandez
+Id: 3
+Edad: 22
+33> Los visitantes repetidos son:
+Visitante Valquiria Fernandez
+Id: 3
+Edad: 22
+Visitante Artemio Ruiz
+Id: 6
+Edad: 30
+34> Coleccion de grupos liberada
+35> La coleccion de grupos ha sido creado de forma exitosa.
+36> El grupoABB ha sido creado de forma exitosa.
+37> Visitante creadox de forma exitosa.
+38> Se ha agregado el visitante al grupo de forma exitosa.
+39> Visitante creadox de forma exitosa.
+40> Se ha agregado el visitante al grupo de forma exitosa.
+41> Se ha agregado el grupo a la coleccion de forma exitosa.
+42> El grupoABB ha sido creado de forma exitosa.
+43> Visitante creadox de forma exitosa.
+44> Se ha agregado el visitante al grupo de forma exitosa.
+45> Visitante creadox de forma exitosa.
+46> Se ha agregado el visitante al grupo de forma exitosa.
+47> Se ha agregado el grupo a la coleccion de forma exitosa.
+48> El grupoABB ha sido creado de forma exitosa.
+49> Visitante creadox de forma exitosa.
+50> Se ha agregado el visitante al grupo de forma exitosa.
+51> Visitante creadox de forma exitosa.
+52> Se ha agregado el visitante al grupo de forma exitosa.
+53> Se ha agregado el grupo a la coleccion de forma exitosa.
+54> El grupoABB ha sido creado de forma exitosa.
+55> Visitante creadox de forma exitosa.
+56> Se ha agregado el visitante al grupo de forma exitosa.
+57> Visitante creadox de forma exitosa.
+58> Se ha agregado el visitante al grupo de forma exitosa.
+59> Se ha agregado el grupo a la coleccion de forma exitosa.
+60> Grupo en la posicion 2 (removido):
+Visitante Rufino Sanchez
+Id: 1
+Edad: 24
+Visitante Zafiro Perez
+Id: 4
+Edad: 28
+61> Coleccion de grupos:
+Grupo con edad promedio 24.00:
+Visitante Valquiria Fernandez
+Id: 3
+Edad: 22
+Visitante Esmeralda Sanchez
+Id: 7
+Edad: 26
+Grupo con edad promedio 32.00:
+Visitante Zenobia Rodriguez
+Id: 5
+Edad: 38
+Visitante Esmeralda Sanchez
+Id: 7
+Edad: 26
+Grupo con edad promedio 33.00:
+Visitante Zafiro Perez
+Id: 4
+Edad: 28
+Visitante Zenobia Rodriguez
+Id: 5
+Edad: 38
+62> Coleccion de grupos:
+Grupo con edad promedio 33.00:
+Visitante Zafiro Perez
+Id: 4
+Edad: 28
+Visitante Zenobia Rodriguez
+Id: 5
+Edad: 38
+Grupo con edad promedio 32.00:
+Visitante Zenobia Rodriguez
+Id: 5
+Edad: 38
+Visitante Esmeralda Sanchez
+Id: 7
+Edad: 26
+Grupo con edad promedio 24.00:
+Visitante Valquiria Fernandez
+Id: 3
+Edad: 22
+Visitante Esmeralda Sanchez
+Id: 7
+Edad: 26
+63> El visitante que aparece en la mayor cantidad de grupos es:
+Visitante Zenobia Rodriguez
+Id: 5
+Edad: 38
+64> Los visitantes repetidos son:
+Visitante Zenobia Rodriguez
+Id: 5
+Edad: 38
+Visitante Esmeralda Sanchez
+Id: 7
+Edad: 26
+65> Coleccion de grupos liberada
+66> Fin.
