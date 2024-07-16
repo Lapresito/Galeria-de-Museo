@@ -1,0 +1,62 @@
+crearListaExposiciones
+crearExposicion 01/01/2002 01/05/2002 10 1
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+crearExposicion 01/02/2002 01/06/2002 10 2
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+crearExposicion 01/03/2002 01/07/2002 10 3
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+obtenerExposicionesFinalizadas 02/05/2002
+imprimirListaExposiciones
+obtenerExposicionesFinalizadas 02/06/2002
+imprimirListaExposiciones
+obtenerExposicionesFinalizadas 02/07/2002
+imprimirListaExposiciones
+liberarListaExposiciones
+crearListaExposiciones
+crearExposicion 01/01/2002 01/07/2002 10 1
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+crearExposicion 01/02/2002 01/07/2002 10 2
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+crearExposicion 02/03/2002 01/07/2002 10 3
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+imprimirListaExposiciones
+obtenerExposicionesFinalizadas 02/08/2002
+imprimirListaExposiciones
+liberarListaExposiciones
+crearListaExposiciones
+crearExposicion 01/01/2002 01/07/2002 10 1
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+crearExposicion 01/02/2002 01/07/2002 10 2
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+crearExposicion 02/03/2002 01/07/2002 10 3
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+obtenerExposicionesActivas 15/01/2002
+imprimirListaExposiciones
+obtenerExposicionesActivas 15/02/2002
+imprimirListaExposiciones
+obtenerExposicionesActivas 15/03/2002
+imprimirListaExposiciones
+liberarListaExposiciones
+crearListaExposiciones
+crearExposicion 01/01/2002 01/07/2002 10 1
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+crearExposicion 01/02/2002 01/07/2002 10 2
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+crearExposicion 02/03/2002 01/07/2002 10 3
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+obtenerExposicionesActivas 15/03/2002
+imprimirListaExposiciones
+liberarListaExposiciones
+Fin

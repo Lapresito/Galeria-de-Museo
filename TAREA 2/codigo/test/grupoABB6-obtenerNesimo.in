@@ -1,0 +1,36 @@
+crearGrupoABB
+crearVisitante 15 Rufino Garcia 21
+agregarAGrupoABB
+obtenerNesimoVisitanteGrupoABB 1
+crearVisitante 3 Zafiro Fernandez 25
+agregarAGrupoABB
+obtenerNesimoVisitanteGrupoABB 1
+obtenerNesimoVisitanteGrupoABB 2
+crearVisitante 25 Casimira Sanchez 26
+agregarAGrupoABB
+crearVisitante 22 Zafiro Sanchez 33
+agregarAGrupoABB
+crearVisitante 20 Rufino Gonzalez 23
+agregarAGrupoABB
+crearVisitante 19 Esmeralda Ruiz 32
+agregarAGrupoABB
+crearVisitante 21 Esmeralda Garcia 58
+agregarAGrupoABB
+crearVisitante 2 Rufino Lopez 28
+agregarAGrupoABB
+crearVisitante 1 Valquiria Ruiz 27
+agregarAGrupoABB
+crearVisitante 6 Zafiro Rodriguez 42
+agregarAGrupoABB
+obtenerNesimoVisitanteGrupoABB 10
+obtenerNesimoVisitanteGrupoABB 9
+obtenerNesimoVisitanteGrupoABB 8
+obtenerNesimoVisitanteGrupoABB 7
+obtenerNesimoVisitanteGrupoABB 6
+obtenerNesimoVisitanteGrupoABB 1
+obtenerNesimoVisitanteGrupoABB 2
+obtenerNesimoVisitanteGrupoABB 3
+obtenerNesimoVisitanteGrupoABB 4
+obtenerNesimoVisitanteGrupoABB 5
+liberarGrupoABB
+Fin

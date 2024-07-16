@@ -1,0 +1,34 @@
+crearGrupoABB
+crearVisitante 7 Zenobia Gomez 16
+agregarAGrupoABB
+maxIdGrupoABB
+crearVisitante 21 Casimira Lopez 42
+agregarAGrupoABB
+maxIdGrupoABB
+crearVisitante 15 Valquiria Gomez 35
+agregarAGrupoABB
+maxIdGrupoABB
+crearVisitante 40 Zafiro Martinez 20
+agregarAGrupoABB
+maxIdGrupoABB
+removerDeGrupoABB 21
+maxIdGrupoABB
+removerDeGrupoABB 40
+maxIdGrupoABB
+crearVisitante 40 Zafiro Martinez 20
+agregarAGrupoABB
+crearVisitante 21 Casimira Lopez 42
+agregarAGrupoABB
+crearVisitante 25 Valquiria Gonzalez 19
+agregarAGrupoABB
+maxIdGrupoABB
+crearVisitante 45 Valquiria Garcia 33
+agregarAGrupoABB
+imprimirGrupoABB
+maxIdGrupoABB
+removerDeGrupoABB 40
+imprimirGrupoABB
+removerDeGrupoABB 25
+imprimirGrupoABB
+liberarGrupoABB
+Fin

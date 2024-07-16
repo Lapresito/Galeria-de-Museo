@@ -1,0 +1,24 @@
+crearColeccionPiezas
+crearFecha 1/1/2001
+crearPieza 125 SacraMangostaCaliente Luna Starlight
+agregarColeccionPiezas
+removerDeColeccionPiezas 125
+imprimirColeccionPiezas
+crearFecha 1/1/2001
+crearPieza 12 SacraLataFunebre Luna Starlight
+agregarColeccionPiezas
+crearFecha 1/1/2001
+crearPieza 24 MalditaEspadaFurtiva Luna Starlight
+agregarColeccionPiezas
+crearFecha 1/1/2001
+crearPieza 15 LaxaMangostaSilenciosa Luna Starlight
+agregarColeccionPiezas
+imprimirColeccionPiezas
+removerDeColeccionPiezas 15
+imprimirColeccionPiezas
+removerDeColeccionPiezas 24
+imprimirColeccionPiezas
+removerDeColeccionPiezas 12
+imprimirColeccionPiezas
+liberarColeccionPiezas
+Fin

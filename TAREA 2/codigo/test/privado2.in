@@ -1,0 +1,8 @@
+crearVisitante 100 Juan Martinez 30
+imprimirVisitante
+imprimirEdadVisitante
+imprimirIdVisitante
+copiarVisitante
+imprimirVisitante
+liberarVisitante
+Fin

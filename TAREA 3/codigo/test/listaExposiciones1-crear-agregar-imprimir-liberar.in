@@ -1,0 +1,14 @@
+crearListaExposiciones
+imprimirListaExposiciones
+liberarListaExposiciones
+crearExposicion 02/01/2002 01/06/2002 10 1
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+crearListaExposiciones
+agregarAListaExposiciones
+imprimirListaExposiciones
+crearExposicion 01/01/2002 01/06/2002 10 2
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+imprimirListaExposiciones
+liberarListaExposiciones
+Fin

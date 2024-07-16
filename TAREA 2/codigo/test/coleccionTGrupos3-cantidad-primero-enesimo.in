@@ -1,0 +1,32 @@
+crearColeccionGrupos
+cantidadColeccionGrupos
+obtenerNesimoColeccionGrupos 3
+obtenerNesimoColeccionGrupos 40
+crearGrupoABB
+crearVisitante 4 Zafiro Garcia 21
+agregarAGrupoABB
+agregarAColeccionGrupos
+cantidadColeccionGrupos
+obtenerPrimeroColeccionGrupos
+obtenerNesimoColeccionGrupos 1
+crearGrupoABB
+crearVisitante 8 Filemon Ruiz 32
+agregarAGrupoABB
+agregarAColeccionGrupos
+obtenerNesimoColeccionGrupos 1
+obtenerNesimoColeccionGrupos 2
+crearGrupoABB
+crearVisitante 5 Brunilda Fernandez 43
+agregarAGrupoABB
+agregarAColeccionGrupos
+crearGrupoABB
+crearVisitante 6 Brunilda Fernandez 51
+agregarAGrupoABB
+agregarAColeccionGrupos
+cantidadColeccionGrupos
+obtenerPrimeroColeccionGrupos
+obtenerNesimoColeccionGrupos 1
+obtenerNesimoColeccionGrupos 4
+imprimirColeccionGrupos
+liberarColeccionGrupos
+Fin

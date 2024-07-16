@@ -1,0 +1,48 @@
+crearColeccionGrupos
+
+visitanteMasRepetido
+obtenerVisitantesRepetidos
+
+crearGrupoABB
+crearVisitante 2 Casimira Garcia 34
+agregarAGrupoABB
+crearVisitante 1 Artemio Rodriguez 21
+agregarAGrupoABB
+agregarAColeccionGrupos
+
+crearGrupoABB
+crearVisitante 2 Casimira Garcia 34
+agregarAGrupoABB
+crearVisitante 1 Artemio Rodriguez 21
+agregarAGrupoABB
+crearVisitante 3 Brunilda Gonzalez 20
+agregarAGrupoABB
+agregarAColeccionGrupos
+
+visitanteMasRepetido
+obtenerVisitantesRepetidos
+
+crearGrupoABB
+crearVisitante 2 Casimira Garcia 34
+agregarAGrupoABB
+agregarAColeccionGrupos
+
+crearGrupoABB
+crearVisitante 2 Casimira Garcia 34
+agregarAGrupoABB
+crearVisitante 4 Zenobia Ruiz 22
+agregarAGrupoABB
+agregarAColeccionGrupos
+
+crearGrupoABB
+crearVisitante 2 Casimira Garcia 34
+agregarAGrupoABB
+crearVisitante 4 Zenobia Ruiz 22
+agregarAGrupoABB
+agregarAColeccionGrupos
+
+visitanteMasRepetido
+obtenerVisitantesRepetidos
+
+liberarColeccionGrupos
+Fin

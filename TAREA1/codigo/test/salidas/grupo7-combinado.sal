@@ -1,0 +1,123 @@
+1>El grupo ha sido creado de forma exitosa.
+2>Se ha borrado el grupo en forma exitosa.
+3>El grupo ha sido creado de forma exitosa.
+4>5>Persona creada de forma exitosa.
+6>Se ha agregado la persona al grupo de forma exitosa.
+7>Persona John Doe
+Cedula: 1234567
+Fecha de nacimiento: 22/3/2024
+8>Se ha borrado el grupo en forma exitosa.
+9>El grupo ha sido creado de forma exitosa.
+10>11>Persona creada de forma exitosa.
+12>Se ha agregado la persona al grupo de forma exitosa.
+13>14>Persona creada de forma exitosa.
+15>Se ha agregado la persona al grupo de forma exitosa.
+16>17>Persona creada de forma exitosa.
+18>Se ha agregado la persona al grupo de forma exitosa.
+19>20>Persona creada de forma exitosa.
+21>Se ha agregado la persona al grupo de forma exitosa.
+22>23>Persona creada de forma exitosa.
+24>Se ha agregado la persona al grupo de forma exitosa.
+25>26>Persona creada de forma exitosa.
+27>Se ha agregado la persona al grupo de forma exitosa.
+28>Persona Persona1 Apellido1
+Cedula: 1234567
+Fecha de nacimiento: 1/1/2001
+Persona Persona2 Apellido2
+Cedula: 2345671
+Fecha de nacimiento: 1/1/2002
+Persona Persona3 Apellido3
+Cedula: 3456712
+Fecha de nacimiento: 1/1/2003
+Persona Persona4 Apellido4
+Cedula: 4567123
+Fecha de nacimiento: 1/1/2004
+Persona Persona5 Apellido5
+Cedula: 5671234
+Fecha de nacimiento: 1/1/2005
+Persona Persona6 Apellido6
+Cedula: 6712345
+Fecha de nacimiento: 1/1/2006
+29>Se ha borrado el grupo en forma exitosa.
+30>El grupo ha sido creado de forma exitosa.
+31>32>Persona creada de forma exitosa.
+33>Se ha agregado la persona al grupo de forma exitosa.
+34>35>Persona creada de forma exitosa.
+36>Se ha agregado la persona al grupo de forma exitosa.
+37>38>Persona creada de forma exitosa.
+39>Se ha agregado la persona al grupo de forma exitosa.
+40>41>Persona creada de forma exitosa.
+42>Se ha agregado la persona al grupo de forma exitosa.
+43>44>Persona creada de forma exitosa.
+45>Se ha agregado la persona al grupo de forma exitosa.
+46>47>Persona creada de forma exitosa.
+48>Se ha agregado la persona al grupo de forma exitosa.
+49>La persona con ci 1234567 está en el grupo.
+50>La persona con ci 2345671 está en el grupo.
+51>La persona con ci 3456712 está en el grupo.
+52>La persona con ci 4567123 está en el grupo.
+53>La persona con ci 5671234 está en el grupo.
+54>La persona con ci 6712345 está en el grupo.
+55>La persona con ci 9999999 NO está en el grupo.
+56>Se ha borrado el grupo en forma exitosa.
+57>El grupo ha sido creado de forma exitosa.
+58>59>Persona creada de forma exitosa.
+60>Se ha agregado la persona al grupo de forma exitosa.
+61>62>Persona creada de forma exitosa.
+63>Se ha agregado la persona al grupo de forma exitosa.
+64>65>Persona creada de forma exitosa.
+66>Se ha agregado la persona al grupo de forma exitosa.
+67>68>Persona creada de forma exitosa.
+69>Se ha agregado la persona al grupo de forma exitosa.
+70>71>Persona creada de forma exitosa.
+72>Se ha agregado la persona al grupo de forma exitosa.
+73>74>Persona creada de forma exitosa.
+75>Se ha agregado la persona al grupo de forma exitosa.
+76>La persona con ci 2222222 se removió del grupo.
+77>La persona con ci 4444444 se removió del grupo.
+78>La persona con ci 6666666 se removió del grupo.
+79>La persona con ci 1111111 se removió del grupo.
+80>Persona Persona3 Apellido3
+Cedula: 3333333
+Fecha de nacimiento: 1/1/2003
+Persona Persona5 Apellido5
+Cedula: 5555555
+Fecha de nacimiento: 1/1/2005
+81>Se ha borrado el grupo en forma exitosa.
+82>El grupo ha sido creado de forma exitosa.
+83>84>Persona creada de forma exitosa.
+85>Se ha agregado la persona al grupo de forma exitosa.
+86>87>Persona creada de forma exitosa.
+88>Se ha agregado la persona al grupo de forma exitosa.
+89>90>Persona creada de forma exitosa.
+91>Se ha agregado la persona al grupo de forma exitosa.
+92>93>Persona creada de forma exitosa.
+94>Se ha agregado la persona al grupo de forma exitosa.
+95>96>Persona creada de forma exitosa.
+97>Se ha agregado la persona al grupo de forma exitosa.
+98>99>Persona creada de forma exitosa.
+100>Se ha agregado la persona al grupo de forma exitosa.
+101>Se encontraron personas en la fecha determinada.
+102>Se encontraron personas en la fecha determinada.
+103>Se encontraron personas en la fecha determinada.
+104>No se encontraron personas en la fecha determinada.
+105>Persona Persona2 Apellido2
+Cedula: 2222222
+Fecha de nacimiento: 1/1/2001
+Persona Persona1 Apellido1
+Cedula: 1111111
+Fecha de nacimiento: 1/1/2001
+106>Persona Persona4 Apellido4
+Cedula: 4444444
+Fecha de nacimiento: 1/1/2002
+Persona Persona3 Apellido3
+Cedula: 3333333
+Fecha de nacimiento: 1/1/2002
+107>Persona Persona6 Apellido6
+Cedula: 6666666
+Fecha de nacimiento: 1/1/2003
+Persona Persona5 Apellido5
+Cedula: 5555555
+Fecha de nacimiento: 1/1/2003
+108>109>Se ha borrado el grupo en forma exitosa.
+110>Fin.

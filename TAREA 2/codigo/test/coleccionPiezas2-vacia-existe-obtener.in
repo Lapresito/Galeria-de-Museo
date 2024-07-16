@@ -1,0 +1,33 @@
+crearColeccionPiezas
+esVaciaColeccionPiezas
+existePiezaColeccionPiezas 50
+crearFecha 1/1/2001
+crearPieza 10 RaraEspadaDesquiciada Luciana Diaz
+agregarColeccionPiezas
+esVaciaColeccionPiezas
+existePiezaColeccionPiezas 10
+existePiezaColeccionPiezas 5
+obtenerPiezaColeccionPiezas 10
+crearFecha 1/1/2001
+crearPieza 6 RaraManianaFunebre Luciana Diaz
+agregarColeccionPiezas
+esVaciaColeccionPiezas
+existePiezaColeccionPiezas 10
+existePiezaColeccionPiezas 5
+existePiezaColeccionPiezas 6
+obtenerPiezaColeccionPiezas 10
+obtenerPiezaColeccionPiezas 6
+crearFecha 1/1/2001
+crearPieza 15 RaraManianaFunebre Luciana Diaz
+agregarColeccionPiezas
+esVaciaColeccionPiezas
+existePiezaColeccionPiezas 10
+existePiezaColeccionPiezas 5
+existePiezaColeccionPiezas 6
+existePiezaColeccionPiezas 15
+obtenerPiezaColeccionPiezas 10
+obtenerPiezaColeccionPiezas 15
+liberarColeccionPiezas
+esVaciaColeccionPiezas
+existePiezaColeccionPiezas 10
+Fin

@@ -1,0 +1,22 @@
+crearGrupoABB
+crearVisitante 10 Artemio Perez 21
+agregarAGrupoABB
+obtenerVisitanteGrupoABB 10
+crearVisitante 5 Casimira Fernandez 52
+agregarAGrupoABB
+crearVisitante 3 Ubaldo Fernandez 19
+agregarAGrupoABB
+crearVisitante 2 Esmeralda Lopez 21
+agregarAGrupoABB
+existeEnGrupoABB 10
+existeEnGrupoABB 1
+existeEnGrupoABB 2
+existeEnGrupoABB 4
+existeEnGrupoABB 5
+existeEnGrupoABB 7
+obtenerVisitanteGrupoABB 5
+obtenerVisitanteGrupoABB 3
+obtenerVisitanteGrupoABB 10
+obtenerVisitanteGrupoABB 2
+liberarGrupoABB
+Fin

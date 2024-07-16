@@ -1,0 +1,4 @@
+alturaGrupoABBTiempo 1000000 1
+obtenerExisteVisitanteGrupoABBTiempo 1000000 0.001
+obtenerExisteVisitanteGrupoABBTiempo 5000000 0.001
+obtenerExisteVisitanteGrupoABBTiempo 10000000 0.001

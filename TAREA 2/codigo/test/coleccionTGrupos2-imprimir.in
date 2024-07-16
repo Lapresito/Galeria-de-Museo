@@ -1,0 +1,29 @@
+crearColeccionGrupos
+imprimirColeccionGrupos
+imprimirInvertidaColeccionGrupos
+crearGrupoABB
+crearVisitante 4 Zafiro Garcia 22
+agregarAGrupoABB
+agregarAColeccionGrupos
+crearGrupoABB
+crearVisitante 8 Filemon Ruiz 52
+agregarAGrupoABB
+agregarAColeccionGrupos
+crearGrupoABB
+crearVisitante 5 Brunilda Fernandez 22
+agregarAGrupoABB
+agregarAColeccionGrupos
+imprimirColeccionGrupos
+imprimirInvertidaColeccionGrupos
+crearGrupoABB
+crearVisitante 6 Brunilda Martinez 24
+agregarAGrupoABB
+agregarAColeccionGrupos
+crearGrupoABB
+crearVisitante 5 Artemio Garcia 22
+agregarAGrupoABB
+agregarAColeccionGrupos
+imprimirColeccionGrupos
+imprimirInvertidaColeccionGrupos
+liberarColeccionGrupos
+Fin

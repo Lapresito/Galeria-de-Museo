@@ -1,0 +1,25 @@
+crearListaExposiciones
+esVaciaListaExposiciones
+perteneceExposicionListaExposiciones 1
+crearExposicion 01/01/2002 01/06/2002 10 1
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+perteneceExposicionListaExposiciones 1
+obtenerExposicionListaExposiciones 1
+esVaciaListaExposiciones
+imprimirListaExposiciones
+crearExposicion 01/02/2002 01/06/2002 10 2
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+crearExposicion 01/03/2002 01/06/2002 10 4
+agregarAExposicion 10 0 1 2 3 4 5 6 7 8 9
+agregarAListaExposiciones
+perteneceExposicionListaExposiciones 2
+perteneceExposicionListaExposiciones 1
+obtenerExposicionListaExposiciones 2
+obtenerExposicionListaExposiciones 1
+obtenerExposicionListaExposiciones 3
+esVaciaListaExposiciones
+imprimirListaExposiciones
+liberarListaExposiciones
+Fin

@@ -1,0 +1,29 @@
+crearGrupo
+crearFecha 1/1/2001
+crearPersona 1111111 Persona1 Apellido1
+agregarAGrupo
+crearFecha 1/1/2001
+crearPersona 2222222 Persona2 Apellido2
+agregarAGrupo
+crearFecha 1/1/2002
+crearPersona 3333333 Persona3 Apellido3
+agregarAGrupo
+crearFecha 1/1/2002
+crearPersona 4444444 Persona4 Apellido4
+agregarAGrupo
+crearFecha 1/1/2003
+crearPersona 5555555 Persona5 Apellido5
+agregarAGrupo
+crearFecha 1/1/2003
+crearPersona 6666666 Persona6 Apellido6
+agregarAGrupo
+hayPersonasFecha 1/1/2001
+hayPersonasFecha 1/1/2002
+hayPersonasFecha 1/1/2003
+hayPersonasFecha 1/1/2004
+imprimirPersonasFecha 1/1/2001
+imprimirPersonasFecha 1/1/2002
+imprimirPersonasFecha 1/1/2003
+imprimirPersonasFecha 1/1/2004
+liberarGrupo
+Fin

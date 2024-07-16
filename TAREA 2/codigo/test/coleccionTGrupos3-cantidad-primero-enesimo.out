@@ -1,0 +1,70 @@
+Bienvenido al programa principal de ArteProg. Por favor ingrese su comando:
+1> La coleccion de grupos ha sido creado de forma exitosa.
+2> La cantidad de grupos en la coleccion es 0
+3> NO existe un grupo en la posicion 3
+4> NO existe un grupo en la posicion 40
+5> El grupoABB ha sido creado de forma exitosa.
+6> Visitante creadox de forma exitosa.
+7> Se ha agregado el visitante al grupo de forma exitosa.
+8> Se ha agregado el grupo a la coleccion de forma exitosa.
+9> La cantidad de grupos en la coleccion es 1
+10> Primer grupo:
+Visitante Zafiro Garcia
+Id: 4
+Edad: 21
+11> Grupo en la posicion 1:
+Visitante Zafiro Garcia
+Id: 4
+Edad: 21
+12> El grupoABB ha sido creado de forma exitosa.
+13> Visitante creadox de forma exitosa.
+14> Se ha agregado el visitante al grupo de forma exitosa.
+15> Se ha agregado el grupo a la coleccion de forma exitosa.
+16> Grupo en la posicion 1:
+Visitante Zafiro Garcia
+Id: 4
+Edad: 21
+17> Grupo en la posicion 2:
+Visitante Filemon Ruiz
+Id: 8
+Edad: 32
+18> El grupoABB ha sido creado de forma exitosa.
+19> Visitante creadox de forma exitosa.
+20> Se ha agregado el visitante al grupo de forma exitosa.
+21> Se ha agregado el grupo a la coleccion de forma exitosa.
+22> El grupoABB ha sido creado de forma exitosa.
+23> Visitante creadox de forma exitosa.
+24> Se ha agregado el visitante al grupo de forma exitosa.
+25> Se ha agregado el grupo a la coleccion de forma exitosa.
+26> La cantidad de grupos en la coleccion es 4
+27> Primer grupo:
+Visitante Zafiro Garcia
+Id: 4
+Edad: 21
+28> Grupo en la posicion 1:
+Visitante Zafiro Garcia
+Id: 4
+Edad: 21
+29> Grupo en la posicion 4:
+Visitante Brunilda Fernandez
+Id: 6
+Edad: 51
+30> Coleccion de grupos:
+Grupo con edad promedio 21.00:
+Visitante Zafiro Garcia
+Id: 4
+Edad: 21
+Grupo con edad promedio 32.00:
+Visitante Filemon Ruiz
+Id: 8
+Edad: 32
+Grupo con edad promedio 43.00:
+Visitante Brunilda Fernandez
+Id: 5
+Edad: 43
+Grupo con edad promedio 51.00:
+Visitante Brunilda Fernandez
+Id: 6
+Edad: 51
+31> Coleccion de grupos liberada
+32> Fin.

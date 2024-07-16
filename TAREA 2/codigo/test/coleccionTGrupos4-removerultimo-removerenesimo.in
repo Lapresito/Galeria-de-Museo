@@ -1,0 +1,47 @@
+crearColeccionGrupos
+crearGrupoABB
+crearVisitante 1 Zafiro Lopez 22
+agregarAGrupoABB
+agregarAColeccionGrupos
+cantidadColeccionGrupos
+removerUltimoColeccionGrupos
+cantidadColeccionGrupos
+crearGrupoABB
+crearVisitante 2 Filemon Fernandez 32
+agregarAGrupoABB
+agregarAColeccionGrupos
+crearGrupoABB
+crearVisitante 3 Brunilda Sanchez 41
+agregarAGrupoABB
+agregarAColeccionGrupos
+crearGrupoABB
+crearVisitante 4 Filemon Martinez 44
+agregarAGrupoABB
+agregarAColeccionGrupos
+removerNesimoColeccionGrupos 3
+removerUltimoColeccionGrupos
+cantidadColeccionGrupos
+removerUltimoColeccionGrupos
+crearGrupoABB
+crearVisitante 10 Valquiria Perez 33
+agregarAGrupoABB
+agregarAColeccionGrupos
+crearGrupoABB
+crearVisitante 11 Ubaldo Lopez 53
+agregarAGrupoABB
+agregarAColeccionGrupos
+crearGrupoABB
+crearVisitante 12 Rufino Rodriguez 43
+agregarAGrupoABB
+agregarAColeccionGrupos
+crearGrupoABB
+crearVisitante 13 Valquiria Rodriguez 18
+agregarAGrupoABB
+agregarAColeccionGrupos
+imprimirColeccionGrupos
+removerNesimoColeccionGrupos 3
+removerNesimoColeccionGrupos 1
+removerNesimoColeccionGrupos 2
+removerNesimoColeccionGrupos 1
+liberarColeccionGrupos
+Fin

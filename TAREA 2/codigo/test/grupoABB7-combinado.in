@@ -1,0 +1,45 @@
+crearGrupoABB
+liberarGrupoABB
+crearGrupoABB
+crearVisitante 10 Brunilda Gomez 34
+agregarAGrupoABB
+crearVisitante 20 Casimira Ruiz 22
+agregarAGrupoABB
+crearVisitante 16 Zenobia Garcia 40
+agregarAGrupoABB
+crearVisitante 24 Brunilda Perez 16
+agregarAGrupoABB
+crearVisitante 30 Zenobia Gonzalez 22
+agregarAGrupoABB
+crearVisitante 31 Rufino Fernandez 24
+agregarAGrupoABB
+crearVisitante 32 Casimira Perez 16
+agregarAGrupoABB
+crearVisitante 40 Ubaldo Garcia 21
+agregarAGrupoABB
+crearVisitante 8 Esmeralda Fernandez 23
+agregarAGrupoABB
+crearVisitante 4 Filemon Lopez 42
+agregarAGrupoABB
+crearVisitante 6 Casimira Martinez 18
+agregarAGrupoABB
+crearVisitante 7 Rufino Martinez 25
+agregarAGrupoABB
+alturaGrupoABB
+existeEnGrupoABB 6
+existeEnGrupoABB 31
+existeEnGrupoABB 2
+existeEnGrupoABB 18
+maxIdGrupoABB
+edadPromedioGrupoABB
+removerDeGrupoABB 30
+removerDeGrupoABB 8
+removerDeGrupoABB 31
+removerDeGrupoABB 24
+alturaGrupoABB
+existeEnGrupoABB 6
+existeEnGrupoABB 31
+maxIdGrupoABB
+edadPromedioGrupoABB
+liberarGrupoABB
+Fin

@@ -1,0 +1,81 @@
+crearColeccionGrupos
+
+crearGrupoABB
+crearVisitante 4 Zafiro Perez 28
+agregarAGrupoABB
+crearVisitante 6 Artemio Ruiz 30
+agregarAGrupoABB
+agregarAColeccionGrupos
+
+crearGrupoABB
+crearVisitante 6 Artemio Ruiz 30
+agregarAGrupoABB
+crearVisitante 2 Ubaldo Perez 32
+agregarAGrupoABB
+agregarAColeccionGrupos
+
+crearGrupoABB
+crearVisitante 3 Valquiria Fernandez 22
+agregarAGrupoABB
+crearVisitante 6 Artemio Ruiz 30
+agregarAGrupoABB
+agregarAColeccionGrupos
+
+crearGrupoABB
+crearVisitante 3 Valquiria Fernandez 22
+agregarAGrupoABB
+crearVisitante 5 Zenobia Rodriguez 38
+agregarAGrupoABB
+agregarAColeccionGrupos
+
+cantidadColeccionGrupos
+obtenerPrimeroColeccionGrupos
+obtenerNesimoColeccionGrupos 3
+imprimirColeccionGrupos
+imprimirInvertidaColeccionGrupos
+removerUltimoColeccionGrupos
+visitanteMasRepetido
+obtenerVisitantesRepetidos
+
+liberarColeccionGrupos
+
+
+crearColeccionGrupos
+
+crearGrupoABB
+crearVisitante 7 Esmeralda Sanchez 26
+agregarAGrupoABB
+crearVisitante 5 Zenobia Rodriguez 38
+agregarAGrupoABB
+agregarAColeccionGrupos
+
+crearGrupoABB
+crearVisitante 5 Zenobia Rodriguez 38
+agregarAGrupoABB
+crearVisitante 4 Zafiro Perez 28
+agregarAGrupoABB
+agregarAColeccionGrupos
+
+crearGrupoABB
+crearVisitante 7 Esmeralda Sanchez 26
+agregarAGrupoABB
+crearVisitante 3 Valquiria Fernandez 22
+agregarAGrupoABB
+agregarAColeccionGrupos
+
+crearGrupoABB
+crearVisitante 4 Zafiro Perez 28
+agregarAGrupoABB
+crearVisitante 1 Rufino Sanchez 24
+agregarAGrupoABB
+agregarAColeccionGrupos
+
+removerNesimoColeccionGrupos 2
+imprimirColeccionGrupos
+imprimirInvertidaColeccionGrupos
+visitanteMasRepetido
+obtenerVisitantesRepetidos
+
+liberarColeccionGrupos
+
+Fin
